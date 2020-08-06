@@ -13,5 +13,5 @@ app.get("/", function (req, res) {
   to shorten multiple urls
   */
 app.listen(3000, () =>
-  console.log(`Now listening to requests on port ${PORT}`)
+  console.log(`Now listening to requests on port 3000`)
 );
