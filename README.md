@@ -9,5 +9,5 @@ Now Start the script
 ```
 npm start
 ```
-#how to configure
+# how to configure
 open src/app.js everything is commented there
